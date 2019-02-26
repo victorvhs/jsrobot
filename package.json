@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/victorvhs/jsrobot/issues"
   },
-  "homepage": "https://github.com/victorvhs/jsrobot#readme"
+  "homepage": "https://github.com/victorvhs/jsrobot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
